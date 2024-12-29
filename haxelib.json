@@ -4,8 +4,8 @@
    "license": "MIT",
    "classPath": "src/",
    "tags": [
-      "lua",
-      "clink"
+      "clink",
+      "lua"
    ],
    "description": "Windows command line auto-completion functions for clink.",
    "contributors": [
